@@ -1,2 +1,2 @@
-# primeiro-reposit-rio.
-primeiro projeto DIO Git/GitHub
+# primeiro-repositorio.
+psrimeiro projeto DIO Git/GitHub
